@@ -1,3 +1,6 @@
+This is a (remember to pack for a journy) app created to expolore handling forms and controlled elements in REACT.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
